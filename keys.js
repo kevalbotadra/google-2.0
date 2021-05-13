@@ -1,6 +1,6 @@
 // Google API Key = https://developers.google.com/custon-search/v1/using_rest
-export const GOOGLE_API_KEY = "AIzaSyBQZ6KTSeNB-9ZeDqPQnh3Sq7QKlLJ8qys"
+export const GOOGLE_API_KEY = "<---Insert API Keys--->"
 
 
 // Context Key - https://cse.google.com/cse/create/new
-export const GOOGLE_CONTEXT_KEY = "3d2d44139356e12b2"
+export const GOOGLE_CONTEXT_KEY = "<---Insert API Keys--->"
